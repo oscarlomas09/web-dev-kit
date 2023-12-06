@@ -1,0 +1,41 @@
+{
+  "publisher": "olomas",
+  "author": {
+    "name": "Oscar Lomas"
+  },
+  "name": "web-dev-kit",
+  "displayName": "Web Developer Kit",
+  "description": "Curated list of extensions for a better web developer experience.",
+  "version": "1.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "oderwat.indent-rainbow",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "sibiraj-s.vscode-scss-formatter",
+    "stylelint.vscode-stylelint",
+    "mikestead.dotenv",
+    "christian-kohler.path-intellisense",
+    "visualstudioexptteam.vscodeinte",
+    "eamodio.gitlens",
+    "aaron-bond.better-comments",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+    "mondersky.tabscolor",
+    "unifiedjs.vscode-mdx",
+    "ritwickdey.liveserver",
+    "vue.volar",
+    "angular.ng-template",
+    "dsznajder.es7-react-js-snippets",
+    "svelte.svelte-vscode"
+  ]
+}
